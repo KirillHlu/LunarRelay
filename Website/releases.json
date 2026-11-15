@@ -1,0 +1,12 @@
+{
+  "android": {
+    "file": "LunarRelay-Android.apk",
+    "bytes": 43276336,
+    "sha256": "230a057176ec2570bd145c32b398d7ed503a818010df55f18b078a755397ea18"
+  },
+  "windows": {
+    "file": "LunarRelay-Windows.zip",
+    "bytes": 47700449,
+    "sha256": "5f852cd56a1cc6cf36ec0768737a7a3d77ee315d3c0382643cac6e8e52a50f4c"
+  }
+}

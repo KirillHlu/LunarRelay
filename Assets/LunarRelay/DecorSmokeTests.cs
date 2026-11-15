@@ -1,0 +1,17 @@
+using System.IO;
+using System.Collections;
+using UnityEngine;
+namespace LunarRelay {
+public sealed partial class GameSession {
+ IEnumerator DecorChecks(){
+  var originalProfile=decorProfile;var originalSim=Sim;decorProfile=new DecorProfile();Sim=new Simulation(77);Sim.EnableExpansion(77);started=true;
+  Verify(!BuyDecor(0)&&decorProfile.Credits==0,"shop refuses unaffordable purchase");Sim.ScrubberRepaired=Sim.ArrayRepaired=true;Sim.MainPower=Sim.AirOn=true;Sim.Packs=3;for(int i=0;i<3;i++)Sim.ShieldLitres[i]=4;CheckRewards();CheckRewards();Verify(decorProfile.Credits==30&&decorProfile.Rewards.Count==3,"three task rewards total30 LC exactly once");var persisted=JsonUtility.FromJson<DecorProfile>(File.ReadAllText(DecorPath));decorProfile=persisted;CheckRewards();Verify(decorProfile.Credits==30,"reloaded reward claims prevent duplicate payout");decorProfile.Credits+=130;Verify(BuyDecor(0)&&BuyDecor(1)&&BuyDecor(2)&&decorProfile.Credits==0,"three purchases debit exact prices50 40 70");Verify(!BuyDecor(0)&&AvailableDecor(0)==1,"insufficient balance cannot add another copy");
+  var job=ActionFor(ActionKind.Tool);int cashBefore=decorProfile.Credits;AwardCompletedTask(job,false);Verify(decorProfile.Credits==cashBefore+5&&creditNoticeAmount==5,"ordinary completed task pays5 LC and raises HUD notice");AwardCompletedTask(job,false);Verify(decorProfile.Credits==cashBefore+5,"repeated action cannot farm task credits");Sim.RoutineSequence=900;AwardCompletedTask(panelService[0],true);Verify(decorProfile.Credits==cashBefore+10,"repeatable assigned job pays5 LC");AwardCompletedTask(panelService[0],true);Verify(decorProfile.Credits==cashBefore+10,"restored routine sequence cannot be rewarded twice");decorProfile.Credits=0;
+  Verify(AllowedDecorNormal(0,Vector3.up)&&!AllowedDecorNormal(0,Vector3.forward)&&AllowedDecorNormal(2,Vector3.forward)&&!AllowedDecorNormal(2,Vector3.up),"lamps and plants horizontal, screens wall-only");var blocker=GameObject.CreatePrimitive(PrimitiveType.Cube);blocker.transform.position=new Vector3(-100,100.18f,-100);Physics.SyncTransforms();Verify(!PlacementClear(new Vector3(-100,100,-100),Quaternion.identity,0),"placement rejects intersecting geometry");DestroyImmediate(blocker);Verify(PlacementClear(new Vector3(-100,100,-100),Quaternion.identity,0),"clear placement volume accepted");
+  var record=new DecorPlacement{Id="test-lamp",Kind=0,Position=new Vector3(-100,100,-100),Rotation=Quaternion.Euler(0,45,0)};decorProfile.Placed.Add(record);var placed=DecorModels.Create(0);placed.transform.position=record.Position;decorObjects[record.Id]=placed;SaveDecor();Verify(AvailableDecor(0)==0,"placed copy cannot be placed twice");BeginDecor(0,record.Id);CancelDecor();Verify(placed.activeSelf&&decorProfile.Placed.Count==1,"cancel move restores existing item");StoreDecor(record.Id);Verify(AvailableDecor(0)==1&&decorProfile.Credits==0,"store returns item without changing wallet");
+  for(int k=0;k<3;k++){Verify(decorIcons[k]!=null,"rendered product image "+k);if(decorIcons[k])File.WriteAllBytes(Path.Combine(SmokePath,"shop-product-"+k+".png"),decorIcons[k].EncodeToPNG());}
+  var monitor=DecorModels.Create(2);var screen=monitor.transform.Find("Earth display").GetComponent<Renderer>().sharedMaterial.mainTexture as Texture2D;Verify(screen&&screen.width==1024,"Earth display has original detailed1024 texture");if(screen)File.WriteAllBytes(Path.Combine(SmokePath,"earth-texture.png"),screen.EncodeToPNG());Destroy(monitor);
+  decorProfile=originalProfile;Sim=originalSim;SaveDecor();yield return null;
+ }
+}
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Greenhouse",
+    "parts": 924,
+    "triangles": 29928,
+    "sha256": "fb2abacb34a5ec172f5162f4e50122f3093d12c40741a5285eedb8c5207e3979"
+  },
+  {
+    "name": "WaterRecycler",
+    "parts": 55,
+    "triangles": 8532,
+    "sha256": "f0ff5e89443e731806d782f4de39f76949453d40ffffcfa94628539019e5a837"
+  },
+  {
+    "name": "OxygenGenerator",
+    "parts": 42,
+    "triangles": 8232,
+    "sha256": "3064f2a135c46257408a8482a5d617658897ea7afa36b31f7ca4b5f6eda2f1e7"
+  },
+  {
+    "name": "DustTool",
+    "parts": 80,
+    "triangles": 4528,
+    "sha256": "b04409ae978314c683535015267e0cc016a88419e28147ab520006231acc6d3a"
+  }
+]

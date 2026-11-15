@@ -1,0 +1,864 @@
+{
+  "entries": [
+    {
+      "en": "LUNAR RELAY   /   CADET 01",
+      "ru": "LUNAR RELAY   /   КАДЕТ 01"
+    },
+    {
+      "en": "SHIFT ",
+      "ru": "СМЕНА "
+    },
+    {
+      "en": " / 8.00 h     |     ",
+      "ru": " / 8.00 ч     |     "
+    },
+    {
+      "en": "EVA / SUIT ACTIVE",
+      "ru": "СНАРУЖИ / СКАФАНДР"
+    },
+    {
+      "en": "STORM SHELTER",
+      "ru": "ЗАЩИТНОЕ УБЕЖИЩЕ"
+    },
+    {
+      "en": "CABIN / PRESSURIZED",
+      "ru": "БАЗА / ЕСТЬ ДАВЛЕНИЕ"
+    },
+    {
+      "en": "NEXT ACTION",
+      "ru": "СЛЕДУЮЩИЙ ШАГ"
+    },
+    {
+      "en": "IN HAND  /  Q TO PUT DOWN",
+      "ru": "В РУКАХ / Q — ПОЛОЖИТЬ"
+    },
+    {
+      "en": "BATTERY",
+      "ru": "БАТАРЕЯ"
+    },
+    {
+      "en": "CO2 PARTIAL PRESSURE",
+      "ru": "ДАВЛЕНИЕ CO2"
+    },
+    {
+      "en": "CABIN OXYGEN",
+      "ru": "КИСЛОРОД НА БАЗЕ"
+    },
+    {
+      "en": "CABIN TEMPERATURE",
+      "ru": "ТЕМПЕРАТУРА"
+    },
+    {
+      "en": "GENERATION / DEMAND",
+      "ru": "ВЫРАБОТКА / РАСХОД"
+    },
+    {
+      "en": "SUIT ",
+      "ru": "СКАФАНДР "
+    },
+    {
+      "en": " h   |   AIRLOCK ",
+      "ru": " ч   |   ШЛЮЗ "
+    },
+    {
+      "en": " kPa",
+      "ru": " кПа"
+    },
+    {
+      "en": "kPa",
+      "ru": "кПа"
+    },
+    {
+      "en": "kWh",
+      "ru": "кВт·ч"
+    },
+    {
+      "en": " kWh",
+      "ru": " кВт·ч"
+    },
+    {
+      "en": " kW",
+      "ru": " кВт"
+    },
+    {
+      "en": "WASD Move / E Pick up, use / R Store / I Backpack / Q Drop / Ctrl or C Crouch / F Lamp / TAB Guide / ESC Pause",
+      "ru": "WASD — ходьба / E — взять, использовать / R — убрать / I — рюкзак / Q — положить / Ctrl, C — присесть / F — свет / Tab — мониторинг / Esc — пауза"
+    },
+    {
+      "en": "POWER LIMITED / Essential systems need electricity",
+      "ru": "МАЛО ЭНЕРГИИ / Системам базы нужно питание"
+    },
+    {
+      "en": "SCRIPTED PARTICLE DRILL",
+      "ru": "УЧЕБНАЯ РАДИАЦИОННАЯ ТРЕВОГА"
+    },
+    {
+      "en": "Sheltered: ",
+      "ru": "В убежище: "
+    },
+    {
+      "en": " / 1.50 h\nRisk index: ",
+      "ru": " / 1.50 ч\nИндекс риска: "
+    },
+    {
+      "en": " (illustrative)",
+      "ru": " (учебный)"
+    },
+    {
+      "en": "L R   /   FIELD SCHOOL",
+      "ru": "L R   /   ШКОЛА КОСМОНАВТОВ"
+    },
+    {
+      "en": "OUTPOST CADET",
+      "ru": "КАДЕТ ЛУННОЙ БАЗЫ"
+    },
+    {
+      "en": "A quiet outpost. One demanding shift.\nKeep the air clean, protect the power reserve and prepare your crew's shelter.",
+      "ru": "Тихая база. Ответственная смена.\nОчистите воздух, сохраните энергию и подготовьте убежище для экипажа."
+    },
+    {
+      "en": "01  RESTORE AIR\n02  BALANCE POWER\n03  PREPARE THE SHELTER",
+      "ru": "01  ПОЧИНИТЕ ОЧИСТКУ ВОЗДУХА\n02  СОХРАНИТЕ ЭНЕРГИЮ\n03  ПОДГОТОВЬТЕ УБЕЖИЩЕ"
+    },
+    {
+      "en": "BEGIN TRAINING",
+      "ru": "НАЧАТЬ ТРЕНИРОВКУ"
+    },
+    {
+      "en": "SCIENCE + NASA REFERENCES",
+      "ru": "НАУКА И ИСТОЧНИКИ NASA"
+    },
+    {
+      "en": "12 MINUTES / ONE SIMULATED 8-HOUR SHIFT\nEducational scenario. No live space-weather feed.\nWASD + mouse / E interact / TAB field guide",
+      "ru": "12 МИНУТ / 8 УЧЕБНЫХ ЧАСОВ\nУчебный сценарий без прогноза космической погоды.\nWASD + мышь / E — действие / Tab — мониторинг"
+    },
+    {
+      "en": "SOUTH POLAR OUTPOST",
+      "ru": "БАЗА У ЮЖНОГО ПОЛЮСА"
+    },
+    {
+      "en": "FICTIONAL FUTURE MISSION / LUNAR SURFACE",
+      "ru": "БУДУЩАЯ УЧЕБНАЯ МИССИЯ / ЛУНА"
+    },
+    {
+      "en": "SHIFT PAUSED",
+      "ru": "ПАУЗА"
+    },
+    {
+      "en": "RESUME SHIFT",
+      "ru": "ПРОДОЛЖИТЬ"
+    },
+    {
+      "en": "LOOK SENSITIVITY",
+      "ru": "ЧУВСТВИТЕЛЬНОСТЬ МЫШИ"
+    },
+    {
+      "en": "FIELD OF VIEW / ",
+      "ru": "УГОЛ ОБЗОРА / "
+    },
+    {
+      "en": "VISUAL EFFECTS: REDUCED",
+      "ru": "ЭФФЕКТЫ: УПРОЩЁННЫЕ"
+    },
+    {
+      "en": "VISUAL EFFECTS: FULL",
+      "ru": "ЭФФЕКТЫ: ПОЛНЫЕ"
+    },
+    {
+      "en": "FIELD GUIDE",
+      "ru": "СПРАВОЧНИК"
+    },
+    {
+      "en": "RESTART SHIFT",
+      "ru": "НАЧАТЬ ЗАНОВО"
+    },
+    {
+      "en": "The simulation is paused. No head bob, motion blur or camera shake is used. F toggles the suit lamp.",
+      "ru": "Время остановлено. Камера без тряски и размытия при движении. F — фонарь скафандра."
+    },
+    {
+      "en": "CADET FIELD GUIDE",
+      "ru": "СПРАВОЧНИК КАДЕТА"
+    },
+    {
+      "en": "BACK TO SHIFT",
+      "ru": "ВЕРНУТЬСЯ"
+    },
+    {
+      "en": "SCIENCE + SOURCES",
+      "ru": "НАУКА И ИСТОЧНИКИ"
+    },
+    {
+      "en": "OUTPOST READY",
+      "ru": "БАЗА ГОТОВА"
+    },
+    {
+      "en": "TRAINING REVIEW",
+      "ru": "ИТОГИ ТРЕНИРОВКИ"
+    },
+    {
+      "en": "Readiness: ",
+      "ru": "Готовность: "
+    },
+    {
+      "en": " / 100\nBattery: ",
+      "ru": " / 100\nБатарея: "
+    },
+    {
+      "en": " kWh  /  Water: ",
+      "ru": " кВт·ч / Вода: "
+    },
+    {
+      "en": " of 3\nShelter time: ",
+      "ru": " из 3\nВремя в убежище: "
+    },
+    {
+      "en": " h  /  Safety interlocks: ",
+      "ru": " ч / Срабатывания защиты: "
+    },
+    {
+      "en": "\n\nProtect essential loads to preserve air cleaning. Supplies and time inside the shelter reduce the illustrative risk index.",
+      "ru": "\n\nПитание жизненно важных систем сохраняет очистку воздуха. Запасы и время в убежище снижают учебный индекс риска."
+    },
+    {
+      "en": "TRY ANOTHER SHIFT",
+      "ru": "ПРОЙТИ ЕЩЁ РАЗ"
+    },
+    {
+      "en": "SCIENCE DESK / NASA REFERENCES",
+      "ru": "НАУКА / ИСТОЧНИКИ NASA"
+    },
+    {
+      "en": "An original fictional lunar-base exercise. Hardware is a proposed adaptation of spaceflight principles. Electrical ratings, thermal buffer, task durations, boundaries and the shielding index are teaching assumptions. No live NASA data or archived DONKI event is loaded. DONKI is linked for learning about real events; it does not measure a person's lunar dose. No NASA endorsement is implied.",
+      "ru": "Вымышленная учебная лунная база. Оборудование основано на принципах космической техники. Мощности, тепловая модель, время задач и индекс защиты — учебные допущения. Данные NASA в реальном времени и события DONKI не загружены. Ссылка DONKI помогает изучать настоящие события, но не определяет дозу облучения человека на Луне. Проект не одобрен NASA."
+    },
+    {
+      "en": "Moon facts: gravity, vacuum and temperatures",
+      "ru": "Луна: гравитация, вакуум и температура"
+    },
+    {
+      "en": "Life support: air, oxygen and water are different systems",
+      "ru": "Жизнеобеспечение: воздух, кислород и вода"
+    },
+    {
+      "en": "Crew reference rates and storage / recycling trade-offs",
+      "ru": "Нормы расхода экипажа, хранение и переработка"
+    },
+    {
+      "en": "Orion: supplies can contribute storm-shelter mass",
+      "ru": "Orion: запасы как дополнительная защита убежища"
+    },
+    {
+      "en": "Lunar Surface Data Book: polar conditions",
+      "ru": "Данные о поверхности Луны: условия у полюсов"
+    },
+    {
+      "en": "DONKI: real space-weather event catalogue",
+      "ru": "DONKI: каталог космической погоды"
+    },
+    {
+      "en": "CLOSE SCIENCE DESK",
+      "ru": "ЗАКРЫТЬ"
+    },
+    {
+      "en": "BACKPACK",
+      "ru": "РЮКЗАК"
+    },
+    {
+      "en": " / CROUCHING",
+      "ru": " / ПРИСЕВ"
+    },
+    {
+      "en": "Six backpack slots plus one item in your hands. The shift is paused while the backpack is open.",
+      "ru": "Шесть ячеек в рюкзаке и одна вещь в руках. Пока рюкзак открыт, время остановлено."
+    },
+    {
+      "en": "IN HAND: ",
+      "ru": "В РУКАХ: "
+    },
+    {
+      "en": "HANDS FREE",
+      "ru": "РУКИ СВОБОДНЫ"
+    },
+    {
+      "en": "STORE IN BACKPACK",
+      "ru": "УБРАТЬ В РЮКЗАК"
+    },
+    {
+      "en": "EMPTY SLOT",
+      "ru": "ПУСТАЯ ЯЧЕЙКА"
+    },
+    {
+      "en": "TAKE IN HAND",
+      "ru": "ВЗЯТЬ В РУКИ"
+    },
+    {
+      "en": "DROP",
+      "ru": "ВЫБРОСИТЬ"
+    },
+    {
+      "en": "CLOSE BACKPACK / I",
+      "ru": "ЗАКРЫТЬ РЮКЗАК / I"
+    },
+    {
+      "en": "Backpack is full. Choose an item to drop.",
+      "ru": "Рюкзак полон. Выберите вещь, которую можно выложить."
+    },
+    {
+      "en": "Stored in backpack: ",
+      "ru": "В рюкзаке: "
+    },
+    {
+      "en": "Carrying: ",
+      "ru": "В руках: "
+    },
+    {
+      "en": ". R stores it in the backpack; I opens inventory.",
+      "ru": ". R — убрать в рюкзак, I — открыть рюкзак."
+    },
+    {
+      "en": "PICKUP AND BACKPACK GUIDE",
+      "ru": "УПРАВЛЕНИЕ И РЮКЗАК\nE — подобрать предмет или использовать оборудование. При подборе прежняя вещь уйдёт в рюкзак, если там есть место. R — убрать вещь из рук. I — открыть рюкзак: взять выбранную вещь в руки или выбросить её. Q — положить вещь из рук. Рюкзак вмещает шесть предметов, ещё один можно держать в руках. Для ремонта возьмите нужную вещь из рюкзака. Воду можно перенести сразу, а затем закрепить каждую упаковку отдельно. Зажмите Ctrl или C, чтобы присесть; отпустите, чтобы встать. Под низким потолком персонаж останется сидеть.\nУстановка: наведитесь на разъём и нажмите E. Деталь берётся из рук или рюкзака и ровно фиксируется; бросать её не нужно. Жёлтая обводка и метка показывают текущую цель."
+    },
+    {
+      "en": "Item released. Tools and packs fall with lunar gravity.",
+      "ru": "Предмет отпущен. Он падает с лунной гравитацией."
+    },
+    {
+      "en": "Welcome to a future Moon-base training exercise. All readings are simulated.",
+      "ru": "Добро пожаловать на учебную лунную базу. Все показания смоделированы."
+    },
+    {
+      "en": "Airlock cycle complete. Check the pressure before opening a hatch.",
+      "ru": "Цикл шлюза завершён. Проверьте давление перед открытием двери."
+    },
+    {
+      "en": "PREPARE",
+      "ru": "ПОДГОТОВКА"
+    },
+    {
+      "en": "LOCAL SHADOW",
+      "ru": "ТЕНЬ"
+    },
+    {
+      "en": "RECOVERY",
+      "ru": "ВОССТАНОВЛЕНИЕ"
+    },
+    {
+      "en": "SHELTER DRILL",
+      "ru": "УЧЕБНАЯ ТРЕВОГА"
+    },
+    {
+      "en": "FINAL CHECKS",
+      "ru": "ФИНАЛЬНАЯ ПРОВЕРКА"
+    },
+    {
+      "en": "Training position reset to the habitat.",
+      "ru": "Персонаж возвращён в жилой модуль."
+    },
+    {
+      "en": "Pick up the torque driver in the sleeping pod. TAB opens your field guide.",
+      "ru": "Найдите инструмент в спальне. E — подобрать, R — убрать в рюкзак, I — рюкзак, Tab — справочник."
+    },
+    {
+      "en": "Prepare: fix air cleaning, stop rover charging and stock the shelter.",
+      "ru": "Подготовка: почините очиститель воздуха, отключите зарядку ровера и запасите воду в убежище."
+    },
+    {
+      "en": "The ridge blocks the Sun. Batteries now carry every load.",
+      "ru": "Хребет закрыл Солнце. Теперь все системы работают от батареи."
+    },
+    {
+      "en": "Sunlight has returned. Repair the exterior array connection, then return inside.",
+      "ru": "Солнечный свет вернулся. Почините соединение панелей снаружи и вернитесь на базу."
+    },
+    {
+      "en": "Particle-event exercise: stay in the stocked shelter. This event did not cause the shadow.",
+      "ru": "Учебная тревога: оставайтесь в убежище с запасами воды. Тревога и тень — разные события."
+    },
+    {
+      "en": "Final checks: keep air cleaning and thermal control powered until hour 8.",
+      "ru": "Финальная проверка: поддерживайте питание очистителя и обогрева до восьмого часа."
+    },
+    {
+      "en": "Power bus online.",
+      "ru": "Главное питание включено."
+    },
+    {
+      "en": "Power isolated. Cabin systems are now off too. Work quickly.",
+      "ru": "Главное питание отключено, системы базы тоже. Работайте быстро."
+    },
+    {
+      "en": "Air-cleaner power: ",
+      "ru": "Питание очистителя: "
+    },
+    {
+      "en": "Thermal-control power: ",
+      "ru": "Питание обогрева: "
+    },
+    {
+      "en": "ON",
+      "ru": "ВКЛ"
+    },
+    {
+      "en": "OFF",
+      "ru": "ВЫКЛ"
+    },
+    {
+      "en": "OPEN",
+      "ru": "ОТКРЫТ"
+    },
+    {
+      "en": "CLOSED",
+      "ru": "ЗАКРЫТ"
+    },
+    {
+      "en": "Rover charging uses 1.8 kW.",
+      "ru": "Зарядка ровера потребляет 1,8 кВт."
+    },
+    {
+      "en": "Rover charging paused. More power stays available for the crew.",
+      "ru": "Зарядка ровера отключена. Для экипажа осталось больше энергии."
+    },
+    {
+      "en": "Stored-oxygen regulator: ",
+      "ru": "Клапан подачи кислорода: "
+    },
+    {
+      "en": "Air cleaner is repaired. Check its power and CO2 trend.",
+      "ru": "Очиститель починен. Проверьте питание и изменение CO2."
+    },
+    {
+      "en": "Turn air-cleaner power OFF before service.",
+      "ru": "Перед ремонтом выключите очиститель воздуха."
+    },
+    {
+      "en": "Fresh cartridge seated. Use the torque driver to secure the service cover.",
+      "ru": "Новый картридж установлен. Закрепите крышку инструментом."
+    },
+    {
+      "en": "Fit the spare CO2 cartridge from the rack first.",
+      "ru": "Сначала установите запасной картридж CO2 со стойки."
+    },
+    {
+      "en": "Air cleaner repaired. Turn its power ON and watch CO2 fall.",
+      "ru": "Очиститель починен. Включите его и следите за снижением CO2."
+    },
+    {
+      "en": "Cartridge changed with the circuit isolated. CO2 removal can run again.",
+      "ru": "Картридж заменён при отключённом питании. Очистка CO2 снова доступна."
+    },
+    {
+      "en": "Use the torque driver to secure this cover.",
+      "ru": "Возьмите инструмент и закрепите крышку."
+    },
+    {
+      "en": "Array connection is already secure.",
+      "ru": "Соединение солнечных панелей уже исправно."
+    },
+    {
+      "en": "Isolate the main power bus before repairing its connection.",
+      "ru": "Перед ремонтом соединения отключите главное питание."
+    },
+    {
+      "en": "Array connection secured. Restore main power before returning inside.",
+      "ru": "Соединение починено. Включите главное питание перед возвращением на базу."
+    },
+    {
+      "en": "Repaired array raises available sunlit power from 1.1 to 3.6 kW (scenario design values).",
+      "ru": "После ремонта мощность на свету выросла с 1,1 до 3,6 кВт — это параметры учебного сценария."
+    },
+    {
+      "en": "Bring the torque driver.",
+      "ru": "Возьмите инструмент для ремонта."
+    },
+    {
+      "en": "Isolate main power before changing a battery.",
+      "ru": "Перед заменой батареи отключите главное питание."
+    },
+    {
+      "en": "Spare battery connected: 2 kWh added to the bus reserve.",
+      "ru": "Запасная батарея подключена: добавлено 2 кВт·ч."
+    },
+    {
+      "en": "Used the finite spare battery; it cannot be reused.",
+      "ru": "Запасная батарея использована. Повторно установить её нельзя."
+    },
+    {
+      "en": "Fit the spare battery from the service shelf.",
+      "ru": "Установите запасную батарею с полки."
+    },
+    {
+      "en": "Water secured in shelter slot. It is still usable drinking water.",
+      "ru": "Вода закреплена в убежище. Она по-прежнему пригодна для питья."
+    },
+    {
+      "en": "Stowed water pack ",
+      "ru": "Закреплена упаковка воды "
+    },
+    {
+      "en": ". Added mass helps the illustrative shelter index.",
+      "ru": ". Дополнительная масса улучшает учебный индекс защиты."
+    },
+    {
+      "en": "Carry a sealed water pack here from the sleeping pod.",
+      "ru": "Возьмите упаковку воды из спальни и закрепите её здесь."
+    },
+    {
+      "en": "Close both airlock hatches and wait until they seal before cycling pressure.",
+      "ru": "Закройте обе двери шлюза и дождитесь их полной остановки перед изменением давления."
+    },
+    {
+      "en": "Filling the airlock. Both hatches stay locked.",
+      "ru": "Шлюз заполняется воздухом. Обе двери заблокированы."
+    },
+    {
+      "en": "Recovering air, then venting the airlock. Suit check complete.",
+      "ru": "Воздух откачивается из шлюза. Скафандр проверен."
+    },
+    {
+      "en": "Safety interlock: ",
+      "ru": "Защита: "
+    },
+    {
+      "en": "Step clear of the hatch before closing it.",
+      "ru": "Отойдите от двери, прежде чем закрывать её."
+    },
+    {
+      "en": "Pressure cycle in progress.",
+      "ru": "Давление в шлюзе меняется. Подождите."
+    },
+    {
+      "en": "Close the outer hatch and fill the airlock first.",
+      "ru": "Сначала закройте наружную дверь и заполните шлюз воздухом."
+    },
+    {
+      "en": "Close the inner hatch and vent the airlock first.",
+      "ru": "Сначала закройте внутреннюю дверь и откачайте воздух из шлюза."
+    },
+    {
+      "en": "Hold position in the shelter until hour 7.",
+      "ru": "Оставайтесь в убежище до седьмого часа."
+    },
+    {
+      "en": "Return to the stocked storm shelter.",
+      "ru": "Вернитесь в убежище с запасами воды."
+    },
+    {
+      "en": "Isolate the air cleaner before service.",
+      "ru": "Отключите питание очистителя перед ремонтом."
+    },
+    {
+      "en": "Fit the spare CO2 cartridge at the rack screen.",
+      "ru": "Установите картридж в разъём: E. Можно прямо из рюкзака."
+    },
+    {
+      "en": "Secure the cover with the torque driver.",
+      "ru": "Закрепите крышку инструментом."
+    },
+    {
+      "en": "Restore air-cleaner power.",
+      "ru": "Включите питание очистителя."
+    },
+    {
+      "en": "Switch off rover charging at the power module.",
+      "ru": "Отключите зарядку ровера на энергомодуле."
+    },
+    {
+      "en": "Bring the driver outside; isolate main power.",
+      "ru": "Возьмите инструмент наружу и отключите главное питание."
+    },
+    {
+      "en": "Repair the connection, then restore main power.",
+      "ru": "Почините соединение и включите главное питание."
+    },
+    {
+      "en": "Restore the main power bus.",
+      "ru": "Включите главное питание."
+    },
+    {
+      "en": "Carry water to the shelter: ",
+      "ru": "Перенесите воду в убежище: "
+    },
+    {
+      "en": " of 3 secured.",
+      "ru": " из 3 закреплено."
+    },
+    {
+      "en": "Base prepared. Be in the shelter before hour 5.",
+      "ru": "База готова. Зайдите в убежище до пятого часа."
+    },
+    {
+      "en": "Monitor essential loads through the end of the shift.",
+      "ru": "Следите за системами базы до конца смены."
+    },
+    {
+      "en": "ONLINE  /  E to isolate",
+      "ru": "ВКЛЮЧЕНО / E — отключить"
+    },
+    {
+      "en": "ISOLATED  /  E to restore",
+      "ru": "ОТКЛЮЧЕНО / E — включить"
+    },
+    {
+      "en": "BUS ONLINE  /  E to isolate",
+      "ru": "ПИТАНИЕ ВКЛ / E — отключить"
+    },
+    {
+      "en": "BUS ISOLATED  /  E to restore",
+      "ru": "ПИТАНИЕ ВЫКЛ / E — включить"
+    },
+    {
+      "en": "CHARGING  /  1.8 kW",
+      "ru": "ЗАРЯДКА / 1,8 кВт"
+    },
+    {
+      "en": "CHARGING PAUSED",
+      "ru": "ЗАРЯДКА ОТКЛЮЧЕНА"
+    },
+    {
+      "en": "THERMAL CONTROL ON",
+      "ru": "ОБОГРЕВ ВКЛЮЧЁН"
+    },
+    {
+      "en": "THERMAL CONTROL OFF",
+      "ru": "ОБОГРЕВ ВЫКЛЮЧЕН"
+    },
+    {
+      "en": "SERVICE COMPLETE",
+      "ru": "РЕМОНТ ЗАВЕРШЁН"
+    },
+    {
+      "en": "CARTRIDGE FITTED / DRIVER REQUIRED",
+      "ru": "КАРТРИДЖ НА МЕСТЕ / НУЖЕН ИНСТРУМЕНТ"
+    },
+    {
+      "en": "REPLACEMENT CARTRIDGE REQUIRED",
+      "ru": "НУЖЕН НОВЫЙ КАРТРИДЖ"
+    },
+    {
+      "en": "CONNECTION SECURED",
+      "ru": "СОЕДИНЕНИЕ ПОЧИНЕНО"
+    },
+    {
+      "en": "ISOLATE MAIN BUS BEFORE SERVICE",
+      "ru": "ПЕРЕД РЕМОНТОМ ОТКЛЮЧИТЕ ПИТАНИЕ"
+    },
+    {
+      "en": "CYCLING / HATCHES LOCKED",
+      "ru": "ДАВЛЕНИЕ МЕНЯЕТСЯ / ДВЕРИ ЗАКРЫТЫ"
+    },
+    {
+      "en": "CABIN PRESSURE / E to vent",
+      "ru": "ЕСТЬ ВОЗДУХ / E — откачать"
+    },
+    {
+      "en": "VACUUM / E to pressurize",
+      "ru": "ВАКУУМ / E — заполнить воздухом"
+    },
+    {
+      "en": "COMPLETE",
+      "ru": "ГОТОВО"
+    },
+    {
+      "en": "WITHIN REACH",
+      "ru": "E — ИСПОЛЬЗОВАТЬ"
+    },
+    {
+      "en": "Cycle airlock pressure",
+      "ru": "Изменить давление в шлюзе"
+    },
+    {
+      "en": "Secure water pack in shelter",
+      "ru": "Закрепить воду в убежище"
+    },
+    {
+      "en": "Toggle air-cleaner power",
+      "ru": "Питание очистителя воздуха"
+    },
+    {
+      "en": "Turn stored-oxygen regulator",
+      "ru": "Клапан подачи кислорода"
+    },
+    {
+      "en": "Service CO2 cleaner: cartridge, then driver",
+      "ru": "Очиститель CO2: картридж, затем инструмент"
+    },
+    {
+      "en": "Spare CO2 cartridge",
+      "ru": "Запасной картридж CO2"
+    },
+    {
+      "en": "Torque driver",
+      "ru": "Ремонтный инструмент"
+    },
+    {
+      "en": "Sealed water pack",
+      "ru": "Упаковка питьевой воды"
+    },
+    {
+      "en": "Toggle main power bus",
+      "ru": "Главное питание базы"
+    },
+    {
+      "en": "Toggle thermal control",
+      "ru": "Питание обогрева"
+    },
+    {
+      "en": "Toggle rover charging",
+      "ru": "Зарядка ровера"
+    },
+    {
+      "en": "Repair array connection with torque driver",
+      "ru": "Починить соединение панелей инструментом"
+    },
+    {
+      "en": "Fit spare battery to isolated bus",
+      "ru": "Установить запасную батарею при отключённом питании"
+    },
+    {
+      "en": "Spare battery: 2 kWh",
+      "ru": "Запасная батарея: 2 кВт·ч"
+    },
+    {
+      "en": "Airlock pressure appears on your suit display",
+      "ru": "Давление шлюза показано на экране скафандра"
+    },
+    {
+      "en": "AirlockInner hatch",
+      "ru": "Внутренняя дверь шлюза"
+    },
+    {
+      "en": "AirlockOuter hatch",
+      "ru": "Наружная дверь шлюза"
+    },
+    {
+      "en": "StormShelterInner hatch",
+      "ru": "Дверь убежища"
+    },
+    {
+      "en": "01  AIR CONTROL",
+      "ru": "01  ОЧИСТКА ВОЗДУХА"
+    },
+    {
+      "en": "02  SHELTER",
+      "ru": "02  УБЕЖИЩЕ"
+    },
+    {
+      "en": "TOOLS + WATER",
+      "ru": "ИНСТРУМЕНТ И ВОДА"
+    },
+    {
+      "en": "03  POWER SERVICE",
+      "ru": "03  ЭНЕРГОМОДУЛЬ"
+    },
+    {
+      "en": "AIRLOCK\nE: pressure cycle",
+      "ru": "ШЛЮЗ\nE: изменить давление"
+    },
+    {
+      "en": "Air cleaning stopped for too long. Carbon dioxide rose above this exercise's limit.",
+      "ru": "Очистка воздуха слишком долго не работала. CO2 превысил учебный предел."
+    },
+    {
+      "en": "The oxygen regulator was closed too long. Stored oxygen must reach the cabin.",
+      "ru": "Клапан кислорода слишком долго был закрыт. Кислород должен поступать на базу."
+    },
+    {
+      "en": "Thermal control was unavailable for too long. Cabin temperature left the exercise range.",
+      "ru": "Обогрев слишком долго не работал. Температура вышла за учебные пределы."
+    },
+    {
+      "en": "The crew needed more time in the stocked shelter during the particle-event drill.",
+      "ru": "Во время учебной тревоги экипажу требовалось больше времени в убежище с запасами."
+    },
+    {
+      "en": "Your suit reserve reached the training limit. Return through the airlock earlier.",
+      "ru": "Запас скафандра достиг учебного предела. Возвращайтесь через шлюз раньше."
+    },
+    {
+      "en": "Outpost ready! Air cleaning, power recovery and a stocked shelter kept the mission running.",
+      "ru": "База готова! Очистка воздуха, восстановленное питание и убежище с запасами сохранили миссию."
+    },
+    {
+      "en": "Shift ended before readiness checks were complete. Repair both systems, stow three water packs and protect the power reserve.",
+      "ru": "Смена закончилась до выполнения задач. Почините обе системы, закрепите три упаковки воды и сохраните энергию."
+    },
+    {
+      "en": "01 / RESTORE AIR\nFind the torque driver in the sleeping pod beyond the shelter. Put it down near the air rack with Q. Turn air-cleaner power OFF. Pick up the spare CO2 cartridge and fit it at the rack's status screen. Pick up the driver and use the same screen to secure the cover. Restore air-cleaner power. A scrubber removes CO2; it does not make oxygen.\n\n02 / USE THE AIRLOCK\nEnter the airlock. Close the inner hatch and wait for it to seal. Use the wall display to vent (7 real seconds). Open the outer hatch only at vacuum. Close it behind you. On return, close the outer hatch, cycle to fill, then open the inner hatch. The suit is assumed equipped at the start.\n\n03 / BALANCE POWER\nTake the driver outside. Turn rover charging OFF to save 1.8 kW. Isolate MAIN POWER before repairing the array connection at the protected port. Restore main power promptly: air and thermal systems share this bus. An optional spare battery adds a finite 2 kWh; fit it to the battery bay only with the bus isolated. Local shadow lasts from hours 2 to 4.\n\n04 / PREPARE SHELTER\nCarry three water packs one at a time from the sleeping pod to the three lower north-shelf mounting clips in the storm shelter. Packs remain usable drinking water. During the separate particle drill at hours 5-7, spend at least 1.5 simulated hours inside the shelter itself. The sleeping pod does NOT count.\n\n05 / FINISH THE SHIFT\nComplete both repairs, stow all three packs, meet the shelter-time target and finish hour 8 with at least 1 kWh. Keep air cleaning and thermal control powered. Unsafe resources trigger a training review.\n\nSIMULATION NOTES\n1 real second = 40 simulated seconds. Lunar gravity is 1.62 m/s². Polar shadows depend on terrain; this two-hour outage is a fictional scenario, not a lunar night. Cabin volume is estimated at 70 m³ with two nominal crew. Reference consumption: 0.84 kg O2 and 1.00 kg CO2 per person per day. Oxygen storage and CO2 removal are separate. Power ratings, thermal response and repair rates are teaching assumptions. Radiation risk is dimensionless, not mSv or a medical prediction. The event is scripted, not a live NASA forecast. Exterior tones come from the suit interface.\n\nSHIFT LOG\n",
+      "ru": "01 / ОЧИСТКА ВОЗДУХА\nНайдите инструмент в спальне за убежищем. Отключите питание очистителя. Возьмите запасной картридж CO2 со стойки и установите его у экрана. Возьмите инструмент в руки через рюкзак (I), закрепите крышку у того же экрана и включите питание. Очиститель убирает CO2, но не производит кислород.\n\n02 / ШЛЮЗ\nВойдите в шлюз, закройте внутреннюю дверь и дождитесь её остановки. На настенном экране включите откачку воздуха (7 реальных секунд). Откройте наружную дверь только при вакууме и закройте за собой. Возвращаясь, закройте наружную дверь, заполните шлюз воздухом и откройте внутреннюю. Предполагается, что скафандр уже надет.\n\n03 / ЭЛЕКТРИЧЕСТВО\nВозьмите инструмент наружу. Отключите зарядку ровера: она потребляет 1,8 кВт. Перед ремонтом соединения панелей отключите ГЛАВНОЕ ПИТАНИЕ. После ремонта сразу включите его: очистка воздуха и обогрев тоже подключены к нему. Запасная батарея добавляет 2 кВт·ч однократно; устанавливать её можно только при отключённом питании. С 2-го по 4-й час база находится в тени.\n\n04 / УБЕЖИЩЕ\nПеренесите три упаковки воды из спальни. Можно сложить их в рюкзак и закрепить по одной в трёх креплениях на нижней северной полке убежища. Вода остаётся питьевой. Во время отдельной учебной тревоги с 5-го по 7-й час проведите в самом убежище не менее 1,5 игровых часов. Спальня не считается убежищем.\n\n05 / ЗАВЕРШЕНИЕ\nПочините обе системы, закрепите три упаковки воды, проведите нужное время в убежище и закончите восьмой час с запасом не менее 1 кВт·ч. Поддерживайте питание очистителя и обогрева. Опасные показатели завершают тренировку.\n\nДОПУЩЕНИЯ\n1 реальная секунда = 40 игровых секунд. Гравитация Луны — 1,62 м/с². Тень зависит от рельефа; двухчасовое затенение — учебный сценарий, а не лунная ночь. Объём базы принят равным 70 м³, экипаж — два человека. Нормы на человека в сутки: расход 0,84 кг O2 и выделение 1,00 кг CO2. Подача кислорода и очистка CO2 — разные системы. Мощности, тепловая модель и скорость ремонта — учебные параметры. Индекс радиационного риска условный: это не доза и не медицинский прогноз. Тревога задана сценарием, а не текущими данными NASA. Звуки снаружи — сигналы скафандра.\n\nЖУРНАЛ СМЕНЫ\n"
+    },
+    {
+      "en": "Inspect greenhouse / harvest mature plants",
+      "ru": "Осмотреть теплицу / собрать зрелый урожай"
+    },
+    {
+      "en": "Water recovery controls",
+      "ru": "Управление переработкой воды"
+    },
+    {
+      "en": "Oxygen generator controls",
+      "ru": "Управление кислородным модулем"
+    },
+    {
+      "en": "Panel cleaning tool",
+      "ru": "Инструмент очистки панелей"
+    },
+    {
+      "en": "Check and equip EVA suit",
+      "ru": "Проверить и надеть скафандр"
+    },
+    {
+      "en": "Life-support diagnostic terminal",
+      "ru": "Диагностика жизнеобеспечения"
+    },
+    {
+      "en": "Shift completed. Essential resources and shelter readiness were maintained.",
+      "ru": "Смена завершена. Основные ресурсы и готовность убежища сохранены."
+    },
+    {
+      "en": "CO2 exceeded the training limit. Check cartridge, airflow and delivered power.",
+      "ru": "CO₂ превысил учебный предел. Проверьте фильтр, поток воздуха и питание."
+    },
+    {
+      "en": "Cabin oxygen fell below the training range. Check stored oxygen and the regulator.",
+      "ru": "Кислород вышел за учебный диапазон. Проверьте запас и регулятор."
+    },
+    {
+      "en": "Cabin temperature left the training range. Heating needs delivered power.",
+      "ru": "Температура вышла за учебный диапазон. Отоплению нужно питание."
+    },
+    {
+      "en": "Drinking water was unavailable for too long. Recycle water or recover shelter water.",
+      "ru": "Питьевая вода слишком долго была недоступна. Запустите переработчик или верните воду из убежища."
+    },
+    {
+      "en": "The crew remained in insufficient shelter during the particle drill.",
+      "ru": "Во время учебного события экипаж был недостаточно защищён."
+    },
+    {
+      "en": "EVA reserve or suit check failed. Return through the airlock before reserves run out.",
+      "ru": "Не пройдена проверка скафандра или исчерпан запас EVA. Возвращайтесь через шлюз заранее."
+    },
+    {
+      "en": "Shift ended before air, power, food reserve, water-block placement and shelter-time checks were complete.",
+      "ru": "Смена окончена без полной готовности. Нужны ремонт воздуха и массива, запас еды и энергии, три блока и время в убежище."
+    },
+    {
+      "en": "Service solar panel 1",
+      "ru": "Обслужить солнечную панель 1"
+    },
+    {
+      "en": "Service solar panel 2",
+      "ru": "Обслужить солнечную панель 2"
+    },
+    {
+      "en": "Service solar panel 3",
+      "ru": "Обслужить солнечную панель 3"
+    },
+    {
+      "en": "Service solar panel 4",
+      "ru": "Обслужить солнечную панель 4"
+    }
+  ]
+}
